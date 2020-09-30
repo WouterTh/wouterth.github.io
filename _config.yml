@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: WTH!?
 description: Don't mind me, just gathering some random thoughts
+timezone: Europe/Brussels
+permalink: /:title:output_ext
